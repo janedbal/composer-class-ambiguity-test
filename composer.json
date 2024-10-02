@@ -1,0 +1,7 @@
+{
+    "name": "janedbal/composer-class-ambiguity-test",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["tests/", "src/"]
+    }
+}
