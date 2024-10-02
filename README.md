@@ -17,3 +17,6 @@ php run.php
 composer require --dev shipmonk/name-collision-detector
 vendor/bin/detect-collisions src tests
 ```
+
+### Related GitHub issue
+- https://github.com/composer/composer/issues/12140
