@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Since composer `2.8.1`, the issue described below was [fixed](https://github.com/composer/composer/pull/12148)
+
 ## Composer does not check class ambiguity properly
 - If you have class duplicate in your project, composer may not warn about that.
   - This repository shows an example of that.
